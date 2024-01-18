@@ -4,7 +4,7 @@ Seja muito bem vindo ao meu primeiro projeto desenvolvido , simples mas com muit
 Esse é apenas um projeto inicial, mas com esforço e dedicação estarei subindo novos projetos
 agradeço a todos que por algum motivo caiu aqui , e te convido a fazer parte dessa jornada !!
 
-Este esta sendo projeto realizado através da formação FullStack DevClub com mentoria de Rodolfo Mori
+Este projeto esta sendo realizado através da formação FullStack DevClub com mentoria de Rodolfo Mori
 e apartir dele estou iniciando minha carreira na programação , no curso contamos com o ensinamentos de varias
 tecnologias utilizadas no mercado de trabalho , sem mas delongas vamos explicar um pouco mais sobre o projeto
 <br>
