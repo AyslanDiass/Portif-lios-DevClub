@@ -15,5 +15,12 @@ entre elas :
 -HTML --> Usado para criar toda a estrutura das telas
 -CSS --> Usado para estilizar e organizar toda a estrutura, asssim dando cor e vida ao projeto 
 
-Imagens usadas no projeto 
+Imagens usadas no projeto :
+<br>
+Esta são as capturas das telas criado no projeto 
+- Tela inicial (Imagem lado esquerdo)
+- Tela de cadastro  (Imagem lado direito )
+- 
+<img src="https://github.com/AyslanDiass/Projeto-tela-login/blob/main/Imagens/Captura%20de%20tela%202024-01-17%20232737.png?raw=true"/>
+
 
